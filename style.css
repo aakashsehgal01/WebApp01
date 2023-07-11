@@ -1,0 +1,17 @@
+.container {
+    width: 300px;
+    margin: 0 auto;
+    padding-top: 100px;
+  }
+  
+  .form-group {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+  
+  #registration-form {
+    display: none;
+  }
